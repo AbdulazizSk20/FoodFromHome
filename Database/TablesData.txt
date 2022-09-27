@@ -1,0 +1,108 @@
+insert into home_maker values (default,
+"Pune",
+"123",
+"India",
+"hm1@gmail.com",
+"HM1",
+"123",
+"874634390",
+"482002",
+"H1, Heritage Colony, Karmeta",
+"Maharashtra"
+);
+
+insert into home_maker values (default,
+"Mumbai",
+"123",
+"India",
+"hm2@gmail.com",
+"HM2",
+"123",
+"874634162",
+"482092",
+"H2, Heritage Colony, Karmeta",
+"Maharashtra"
+);
+
+insert into customer values (default,
+"Nagpur",
+"123",
+"India",
+"cst1@gmail.com",
+"CST1",
+"123",
+"7776152438",
+"482321",
+"CLASSIC",
+"VEG",
+"C1, Heritage Colony, Karmeta",
+"Maharashtra",
+null
+);
+
+insert into customer values (default,
+"Mumbai",
+"123",
+"India",
+"cst2@gmail.com",
+"CST2",
+"123",
+"9997855624",
+"482092",
+"JUMBO",
+"NON_VEG",
+"C2, Heritage Colony, Karmeta",
+"Maharashtra",
+null
+);
+
+insert into customer values (default,
+"Mumbai",
+"123",
+"India",
+"cst3@gmail.com",
+"CST3",
+"123",
+"9990085624",
+"482092",
+"MINI",
+"NON_VEG",
+"C3, Heritage Colony, Karmeta",
+"Maharashtra",
+null
+);
+
+insert into customer values (default,
+"Nagpur",
+"123",
+"India",
+"cst4@gmail.com",
+"CST4",
+"123",
+"7770032438",
+"482321",
+"CLASSIC",
+"VEG",
+"C4, Heritage Colony, Karmeta",
+"Maharashtra",
+null
+);
+
+insert into admin values(default,
+"9719786231",
+"dv@123",
+"dv@gmail.com",
+"Deepali Vyas",
+"dv@123",
+"7728009812");
+
+insert into admin values(default,
+"9719244399",
+"mh@123",
+"mh@gmail.com",
+"Mohd Hammad",
+"mh@123",
+"8447109979");
+
+
+select * from customer;
